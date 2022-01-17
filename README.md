@@ -20,4 +20,4 @@ make an account of Trading View(https://jp.tradingview.com/)
 understand 4 technical indices: MA(Moving Average), MACD(Mving Average Convergence Divergence), RSI(Relative Strength Index), BB(Bollinger Bands)
 
 ## py04
-learn the notion of class, inherits, methods 
+learn the notion of Object Oriented Programming (class, inherits, methods) 
