@@ -7,4 +7,4 @@ python beginner students learn the basics of python and basic stock theory.
 print "Hello, World"  
 learn to use array  
 learn to use numpy and draw graph  
-solve fizz buzz with conditions  
+solve fizz buzz with conditional branch    
