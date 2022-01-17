@@ -17,6 +17,9 @@ graphing stock price by using numpy and matplotlib
 
 ## py03
 make an account of Trading View(https://jp.tradingview.com/)  
+make a graph about 4 technical indices by using mplfinance and ta-lib  
+
+## py03-2  
 understand 4 technical indices: MA(Moving Average), MACD(Mving Average Convergence Divergence), RSI(Relative Strength Index), BB(Bollinger Bands)
 
 ## py04
