@@ -10,3 +10,6 @@ learn to use numpy and draw graph
 solve fizz buzz with conditional branch    
 
 ## py01  
+get used to using numpy and matblotlib  
+
+## py02
